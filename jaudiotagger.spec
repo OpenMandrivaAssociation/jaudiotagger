@@ -1,7 +1,7 @@
 Name:		jaudiotagger
 Version:	1.0.9
 Release:	1
-URL:		http://www.jthink.net/jaudiotagger/index.jsp
+URL:		https://www.jthink.net/jaudiotagger/index.jsp
 Summary:	Library for editing tags like ID3 in audio files such as MP3s
 Group:		Development/Java
 License:	LGPLv2+
